@@ -15,7 +15,8 @@ Link para o [Google](https://www.google.com.br/)
 
 Listas de Tecnologias:
 - Markdown;
-- Git.
+- Git;
+- GitHub.
 
 Lista de Alunos:
 1. João
